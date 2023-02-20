@@ -1,8 +1,5 @@
 <?php 
-
   session_start();
-
-
 ?>
 <!doctype html>
 <html lang="en">
@@ -14,16 +11,12 @@
     <meta name="generator" content="Hugo 0.101.0">
     <title>Blog</title>
 
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/carousel/">
-
-    
-
-    
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/carousel/">   
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="rating-pluggin/src/css/star-rating-svg.css">
 
       <meta name="theme-color" content="#712cf9">
-
 <nav class="navbar navbar-expand-lg bg-light">
   <div class="container">
     <a class="navbar-brand" href="index.php">Blog</a>
